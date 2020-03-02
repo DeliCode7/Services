@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string name="intent_service_button_start">Start Intent Service</string>
+    <string name="service_button_start">Start Service</string>
+    <string name="bound_service_button_start">Bind Service</string>
+    <string name="get_result_bound_service_button">get Time from BoundService</string>
+    <string name="bound_service_button_unbind">Unbind Service</string>
+</resources>
